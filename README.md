@@ -1,14 +1,39 @@
+<div align="center">
+
 # Mova
 
-A Flutter movie application for personalized discovery, search, watchlists, trailers, notifications, media playback, and bilingual English/Arabic experiences.
+### Personalized Movie Discovery & Streaming Experience
+
+[![Flutter](https://img.shields.io/badge/Flutter-Mobile_App-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev)
+[![Dart](https://img.shields.io/badge/Dart-Frontend-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev)
+[![TMDB](https://img.shields.io/badge/TMDB-Movie_Data-01B4E4?style=for-the-badge&logo=themoviedatabase&logoColor=white)](https://www.themoviedb.org)
+[![Firebase](https://img.shields.io/badge/Firebase-User_Services-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com)
+![Languages](https://img.shields.io/badge/Languages-English_%7C_Arabic-6C63FF?style=for-the-badge)
+![Source](https://img.shields.io/badge/Source-Private-red?style=for-the-badge)
+
+**A bilingual Flutter application for movie discovery, advanced search and filtering, personalized watchlists, trailers, supported media playback, and Firebase-backed user experiences.**
+
+[Features](#key-features) • [My Contribution](#my-contribution) • [Screenshots](#screenshots) • [Architecture](#architecture) • [Tech Stack](#tech-stack)
+
+</div>
+
+> **Portfolio showcase:** The application source code and service credentials are maintained privately. This public repository presents the product and my independent Flutter work.
 
 ## Overview
 
-**Mova** brings movie discovery and personal movie management into one mobile experience. Users can browse popular and top-rated movies, search and filter titles, open detailed movie pages, view cast information and trailers, discover similar movies, manage a personal watchlist, and access supported media content.
+**Mova** brings movie discovery and personal movie management into one mobile experience. Users can browse popular and top-rated titles, search and filter the catalog, explore detailed movie information, view cast and trailers, discover similar titles, and build a personal watchlist.
 
-The application combines external movie data with Firebase-backed user features and persistent local preferences. It is designed for users who want a richer movie browsing experience with personalization, notifications, theme switching, and full Arabic RTL support.
+The application combines TMDB movie data with Firebase-backed user services and persistent local preferences. It supports personalized onboarding, notifications, theme switching, and a complete English/Arabic experience with RTL layouts.
 
-This repository is a **public portfolio showcase**. The application source code is maintained separately.
+### The Product at a Glance
+
+| User Need | Mova Experience |
+| --- | --- |
+| Discover movies quickly | Popular, top-rated, upcoming, and similar-title browsing |
+| Find a specific title | Dynamic search and filters for genre, year, popularity, and rating |
+| Decide what to watch | Movie details, cast, overview, trailers, comments, and recommendations |
+| Save personal choices | Firebase-backed profile features and a personal **My List** watchlist |
+| Enjoy a localized interface | English/Arabic switching, RTL support, and persistent light/dark themes |
 
 ## Key Features
 
@@ -24,6 +49,7 @@ This repository is a **public portfolio showcase**. The application source code 
 - Upcoming movie content and notification support.
 - English and Arabic localization with full RTL layouts.
 - Light and dark theme support with persisted preferences.
+
 ## My Contribution
 
 Mova is an **independent Flutter project**, and I implemented the mobile application across its core development areas.
@@ -57,6 +83,7 @@ My work included:
 - Cloud Firestore
 - Firebase Storage
 - Firebase Cloud Messaging
+
 **Persistence & Device Features**
 - SharedPreferences
 - SQLite (`sqflite`)
@@ -97,6 +124,7 @@ lib/
 ├── firebase_options.dart
 └── main.dart
 ```
+
 ## Screenshots
 
 ### Welcome & Personalization
@@ -134,6 +162,7 @@ lib/
 <p align="center">
   <img src="screenshots/12_arabic_rtl_dark.png" width="250" alt="Mova Arabic RTL Dark Mode" />
 </p>
+
 ## Project Highlights
 
 - Provider-based state management across multiple application features.
@@ -155,7 +184,7 @@ lib/
 
 ## Notes
 
-This public repository is intended as a **portfolio showcase** and does not expose private source code or secrets. Movie metadata is powered by TMDB, while user-facing application services integrate Firebase.
+This public repository is intended as a **portfolio showcase** and does not expose private source code or secrets. Movie metadata is powered by TMDB, while user-facing application services integrate Firebase. This product uses the TMDB API but is not endorsed or certified by TMDB.
 
 ## Author
 
