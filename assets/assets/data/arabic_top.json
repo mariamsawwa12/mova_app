@@ -1,0 +1,1604 @@
+[
+    {
+    "adult": false,
+    "backdrop_path": "/tSPT36ZKlP2WVHJLM4cQPLSzv3b.jpg",
+    "belongs_to_collection": {
+        "id": 230,
+        "name": "سلسلة أفلام العراب",
+        "poster_path": "/7xkVZBP9k7Q0965kLunWXptermW.jpg",
+        "backdrop_path": "/ipMInu8Ymcl0m47M5585KPh3kOn.jpg"
+    },
+    "budget": 6000000,
+    "genres": [
+        {
+            "id": 18,
+            "name": "دراما"
+        },
+        {
+            "id": 80,
+            "name": "جريمة"
+        }
+    ],
+    "homepage": "",
+    "id": 238,
+    "imdb_id": "tt0068646",
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_title": "The Godfather",
+    "overview": "يمتد من عام 1945 إلى عام 1955 ، وهو سرد تاريخي لعائلة جريمة كورليوني الإيطالية الأمريكية الخيالية. عندما ينجو مؤسس عائلة الجريمة المنظمة ، فيتو كورليوني ، بالكاد من محاولة اغتيال ، يتدخل ابنه الأصغر مايكل لرعاية القتلة المحتملين ، ويطلق حملة انتقامية دموية",
+    "popularity": 35.7699,
+    "poster_path": "/q0wsNUEw7VSThyY22EjolcxNCjM.jpg",
+    "production_companies": [
+        {
+            "id": 4,
+            "logo_path": "/jay6WcMgagAklUt7i9Euwj1pzTF.png",
+            "name": "Paramount Pictures",
+            "origin_country": "US"
+        },
+        {
+            "id": 10211,
+            "logo_path": null,
+            "name": "Alfran Productions",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "1972-03-14",
+    "revenue": 245066411,
+    "runtime": 175,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        },
+        {
+            "english_name": "Italian",
+            "iso_639_1": "it",
+            "name": "Italiano"
+        },
+        {
+            "english_name": "Latin",
+            "iso_639_1": "la",
+            "name": "Latin"
+        }
+    ],
+    "status": "Released",
+    "tagline": "عرض لا يمكنك رفضه.",
+    "title": "The Godfather",
+    "video": false,
+    "vote_average": 8.687,
+    "vote_count": 22672,
+      "localUrl": "https://firebasestorage.googleapis.com/v0/b/movie-cd181.firebasestorage.app/o/movies%2Fgodfather.mp4?alt=media&token=3092f85c-c92e-48a4-af91-b463aa607a53"
+},
+{
+    "adult": false,
+    "backdrop_path": "/kGzFbGhp99zva6oZODW5atUtnqi.jpg",
+    "belongs_to_collection": {
+        "id": 230,
+        "name": "سلسلة أفلام العراب",
+        "poster_path": "/7xkVZBP9k7Q0965kLunWXptermW.jpg",
+        "backdrop_path": "/ipMInu8Ymcl0m47M5585KPh3kOn.jpg"
+    },
+    "budget": 13000000,
+    "genres": [
+        {
+            "id": 18,
+            "name": "دراما"
+        },
+        {
+            "id": 80,
+            "name": "جريمة"
+        }
+    ],
+    "homepage": "",
+    "id": 240,
+    "imdb_id": "tt0071562",
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_title": "The Godfather Part II",
+    "overview": "تدور أحداث الجزء الثاني حول قصتين متوازيتين؛ الأولى: تتعلق بالابن (مايكل كورليوني) في الخمسينيات من القرن الماضي، بعد نهاية الجزء الأول؛ إذ يسعى للتوسع في نشاط عائلته في أماكن جديدة مثل لاس فيجاس، وهوليوود، وكوبا. والثانية: عودة للماضي لتاريخ الأب (فيتو كورليوني) وطفولته في (صقلية) بإيطاليا في بداية القرن العشرين، هجرته لأمريكا مجبرًا وتأسيسه لعائلة كورليوني الإجرامية في مدينة نيويورك.",
+    "popularity": 23.1115,
+    "poster_path": "/9LzsZKyEPPWaM3nIL2cbBpOt47l.jpg",
+    "production_companies": [
+        {
+            "id": 4,
+            "logo_path": "/jay6WcMgagAklUt7i9Euwj1pzTF.png",
+            "name": "Paramount Pictures",
+            "origin_country": "US"
+        },
+        {
+            "id": 536,
+            "logo_path": null,
+            "name": "The Coppola Company",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "1974-12-20",
+    "revenue": 102600000,
+    "runtime": 202,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        },
+        {
+            "english_name": "Italian",
+            "iso_639_1": "it",
+            "name": "Italiano"
+        },
+        {
+            "english_name": "Latin",
+            "iso_639_1": "la",
+            "name": "Latin"
+        },
+        {
+            "english_name": "Spanish",
+            "iso_639_1": "es",
+            "name": "Español"
+        }
+    ],
+    "status": "Released",
+    "tagline": "لا أشعر أنني مضطر لمحو الجميع يا توم. فقط أعدائي.",
+    "title": "العراب: الجزء الثاني",
+    "video": false,
+    "vote_average": 8.572,
+    "vote_count": 13729
+},
+{
+    "adult": false,
+    "backdrop_path": "/1qM2BYNE11Viby8ImC9LC00DgDr.jpg",
+    "belongs_to_collection": null,
+    "budget": 25000000,
+    "genres": [
+        {
+            "id": 28,
+            "name": "حركة"
+        },
+        {
+            "id": 80,
+            "name": "جريمة"
+        },
+        {
+            "id": 18,
+            "name": "دراما"
+        }
+    ],
+    "homepage": "",
+    "id": 111,
+    "imdb_id": "tt0086250",
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_title": "Scarface",
+    "overview": "بعد حصوله على البطاقة الخضراء مقابل اغتيال مسؤول حكومي كوبي ، يطالب توني مونتانا بتجارة المخدرات في ميامي. يقتل توني بوحشية أي شخص يقف في طريقه ، ويصبح في النهاية أكبر أباطرة مخدرات في الولاية ، حيث يتحكم تقريبًا في كل الكوكايين الذي يأتي عبر ميامي. لكن الضغط المتزايد من الشرطة والحروب مع عصابات المخدرات الكولومبية والبارانويا التي تغذيها المخدرات تعمل على تأجيج نيران سقوطه في نهاية المطاف.",
+    "popularity": 16.3105,
+    "poster_path": "/ySqDok7R8vVyDQnDmGyek213HYC.jpg",
+    "production_companies": [
+        {
+            "id": 33,
+            "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+            "name": "Universal Pictures",
+            "origin_country": "US"
+        },
+        {
+            "id": 56976,
+            "logo_path": null,
+            "name": "Martin Bregman Productions",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "1983-12-09",
+    "revenue": 66023329,
+    "runtime": 170,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        },
+        {
+            "english_name": "Spanish",
+            "iso_639_1": "es",
+            "name": "Español"
+        }
+    ],
+    "status": "Released",
+    "tagline": "العالم لك ...",
+    "title": "الوجه ذو الندبة",
+    "video": false,
+    "vote_average": 8.155,
+    "vote_count": 12848,
+         "localUrl": "https://firebasestorage.googleapis.com/v0/b/movie-cd181.firebasestorage.app/o/movies%2Fscarface.mp4?alt=media&token=50d66e2b-e2cf-43cf-8993-93c9d0980a5e"
+
+},
+{
+    "adult": false,
+    "backdrop_path": "/gILte6Zd7m1YneIr6MVhh30S9pr.jpg",
+    "belongs_to_collection": null,
+    "budget": 25000000,
+    "genres": [
+        {
+            "id": 18,
+            "name": "دراما"
+        },
+        {
+            "id": 80,
+            "name": "جريمة"
+        }
+    ],
+    "homepage": "",
+    "id": 769,
+    "imdb_id": "tt0099685",
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_title": "GoodFellas",
+    "overview": "يروي رجل العصابات السابق \"هنري هيل\" قصّة صعوده وسقوطه المثيرة والعنيفة وسط عائلة إجرامية في \"نيويورك\"، حيث يتحوّل حلم كبير إلى كابوس مرعب.",
+    "popularity": 24.7552,
+    "poster_path": "/eUXk1r8FjGB9TRJb7LWJHRohFI5.jpg",
+    "production_companies": [
+        {
+            "id": 8880,
+            "logo_path": "/fE7LBw7Jz8R29EABFGCvWNriZxN.png",
+            "name": "Winkler Films",
+            "origin_country": "US"
+        },
+        {
+            "id": 174,
+            "logo_path": "/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png",
+            "name": "Warner Bros. Pictures",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "1990-09-12",
+    "revenue": 47072327,
+    "runtime": 145,
+    "spoken_languages": [
+        {
+            "english_name": "Italian",
+            "iso_639_1": "it",
+            "name": "Italiano"
+        },
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "ثلاثة عقود من الحياة في المافيا.",
+    "title": "الرفاق الصالحون",
+    "video": false,
+    "vote_average": 8.452,
+    "vote_count": 14156
+},
+{
+    "adult": false,
+    "backdrop_path": "/jRJrQ72VLyEnVsvwfep8Xjlvu8c.jpg",
+    "belongs_to_collection": null,
+    "budget": 16000000,
+    "genres": [
+        {
+            "id": 80,
+            "name": "جريمة"
+        },
+        {
+            "id": 18,
+            "name": "دراما"
+        },
+        {
+            "id": 28,
+            "name": "حركة"
+        }
+    ],
+    "homepage": "",
+    "id": 101,
+    "imdb_id": "tt0110413",
+    "origin_country": [
+        "FR"
+    ],
+    "original_language": "fr",
+    "original_title": "Léon",
+    "overview": "حصل ليون ، الرجل الأكثر نجاحًا في نيويورك ، على ممثل باعتباره \"عامل تنظيف\" فعال. ولكن عندما يتم القضاء على جيرانه المجاورين من قبل وكيل إدارة مكافحة المخدرات ، فإنه يصبح الوصي غير الراغب على ماتيلدا البالغة من العمر 12 عامًا. قبل مضي وقت طويل ، تتحول أفكار ماتيلدا إلى الانتقام ، وهي تفكر في اتباع خطى ليون.",
+    "popularity": 17.9932,
+    "poster_path": "/1sTI3K0j1Z1rJ9r6PiARsUVUj9L.jpg",
+    "production_companies": [
+        {
+            "id": 9,
+            "logo_path": "/nda3dTUYdDrJ6rZqBpYvY865aDv.png",
+            "name": "Gaumont",
+            "origin_country": "FR"
+        },
+        {
+            "id": 66743,
+            "logo_path": null,
+            "name": "Les Films du Dauphin",
+            "origin_country": "FR"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "FR",
+            "name": "France"
+        }
+    ],
+    "release_date": "1994-09-14",
+    "revenue": 45284974,
+    "runtime": 111,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        },
+        {
+            "english_name": "French",
+            "iso_639_1": "fr",
+            "name": "Français"
+        },
+        {
+            "english_name": "Italian",
+            "iso_639_1": "it",
+            "name": "Italiano"
+        }
+    ],
+    "status": "Released",
+    "tagline": "إذا كنت تريد عملًا جيدًا ، فقم بتعيين متخصص.",
+    "title": "ليون: المحترف",
+    "video": false,
+    "vote_average": 8.295,
+    "vote_count": 15914,
+            "localUrl": "https://firebasestorage.googleapis.com/v0/b/movie-cd181.firebasestorage.app/o/movies%2Fleon.mp4?alt=media&token=4a5c4413-35bd-46dc-b8e2-c1c2e77205f8"
+
+},
+{
+    "adult": false,
+    "backdrop_path": "/xPpXYnCWfjkt3zzE0dpCNME1pXF.jpg",
+    "belongs_to_collection": {
+        "id": 925155,
+        "name": "Demon Slayer",
+        "poster_path": "/7HWkUmer2r5nVxtMAlYlZY8kclV.jpg",
+        "backdrop_path": "/oHx043lHsysn8klll1nPvKMBHLf.jpg"
+    },
+    "budget": 15700000,
+    "genres": [
+        {
+            "id": 16,
+            "name": "رسوم متحركة"
+        },
+        {
+            "id": 28,
+            "name": "حركة"
+        },
+        {
+            "id": 14,
+            "name": "فانتازيا"
+        }
+    ],
+    "homepage": "",
+    "id": 635302,
+    "imdb_id": "tt11032374",
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_title": "劇場版「鬼滅の刃」無限列車編",
+    "overview": "قصة فيلم Kimetsu no Yaiba Movie: Mugen Ressha-hen تتمة لاحداث الانمي، حيث يقوم “تانجيرو” و “زينتسو” و“اينوسوكي” بشراء تذاكر لـ“القطار الغير محدود” للبحث عن “رينغوكو كونجيرو” عمود اللهب. بأمل أن لديه بعض المعلومات عن رقصة إلاه النار. يخبرهم “رينغوكو” أنه أُرسل في القطار لقتل شيطان يعتقد أنه يسكن بداخله، وأنه لا يعرف شيئًا عن رقصة إلاه النار. سرعان ما أحس بالشيطان وقتله، لتطلب المجموعة التي أعجبت بمهاراته، أن يجعلهم “تسوغوكو” و“رينغوكو” خاص به.",
+    "popularity": 12.7372,
+    "poster_path": "/8OGrD5t6swQFmoZ1pGL2YJa277P.jpg",
+    "production_companies": [
+        {
+            "id": 5887,
+            "logo_path": "/m6FEqz8rQECnmfjEwjNhNAlmhCJ.png",
+            "name": "ufotable",
+            "origin_country": "JP"
+        },
+        {
+            "id": 2883,
+            "logo_path": "/rDYExnBV61jGQnkhVVrPN4Yl7O1.png",
+            "name": "Aniplex",
+            "origin_country": "JP"
+        },
+        {
+            "id": 2918,
+            "logo_path": "/gyEWUBWwqrm3H5T2hkERD9LxpOq.png",
+            "name": "Shueisha",
+            "origin_country": "JP"
+        },
+        {
+            "id": 882,
+            "logo_path": "/fRSWWjquvzcHjACbtF53utZFIll.png",
+            "name": "TOHO",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "release_date": "2020-10-16",
+    "revenue": 523542183,
+    "runtime": 117,
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "قاتل الشياطين: قطار اللانهاية",
+    "video": false,
+    "vote_average": 8.2,
+    "vote_count": 4438
+},
+{
+    "adult": false,
+    "backdrop_path": "/hiKmpZMGZsrkA3cdce8a7Dpos1j.jpg",
+    "belongs_to_collection": null,
+    "budget": 11363000,
+    "genres": [
+        {
+            "id": 35,
+            "name": "كوميديا"
+        },
+        {
+            "id": 53,
+            "name": "إثارة"
+        },
+        {
+            "id": 18,
+            "name": "دراما"
+        }
+    ],
+    "homepage": "",
+    "id": 496243,
+    "imdb_id": "tt6751668",
+    "origin_country": [
+        "KR"
+    ],
+    "original_language": "ko",
+    "original_title": "기생충",
+    "overview": "تدور أحداث الفيلم حول عائلة عاطلة عن العمل، تُقيم داخل شقة فقيرة، تتغير حياتهم كُليًا عندما يلتحق الابن بوظيفة مدرس لابنة عائلة ثرية، وسرعان ما يصير جميع أفراد اﻷسرة الفقيرة عاملين لدى اﻷسرة الثرية إلى أن يتورطوا في حادث غير متوقع.",
+    "popularity": 25.6833,
+    "poster_path": "/1lHlDVNOABldVoyrt2ZsCrj1zMp.jpg",
+    "production_companies": [
+        {
+            "id": 4399,
+            "logo_path": "/rk3kE5QX2dQtH0pPwCHV12qfebg.png",
+            "name": "Barunson E&A",
+            "origin_country": "KR"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "KR",
+            "name": "South Korea"
+        }
+    ],
+    "release_date": "2019-05-30",
+    "revenue": 257591776,
+    "runtime": 133,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        },
+        {
+            "english_name": "German",
+            "iso_639_1": "de",
+            "name": "Deutsch"
+        },
+        {
+            "english_name": "Korean",
+            "iso_639_1": "ko",
+            "name": "한국어/조선말"
+        }
+    ],
+    "status": "Released",
+    "tagline": "تصرف وكأنك تملك المكان.",
+    "title": "طفيلي",
+    "video": false,
+    "vote_average": 8.493,
+    "vote_count": 20343
+},
+{
+    "adult": false,
+    "backdrop_path": "/2u7zbn8EudG6kLlBzUYqP8RyFU4.jpg",
+    "belongs_to_collection": {
+        "id": 119,
+        "name": "سلسلة أفلام سيد الخواتم",
+        "poster_path": "/oENY593nKRVL2PnxXsMtlh8izb4.jpg",
+        "backdrop_path": "/bccR2CGTWVVSZAG0yqmy3DIvhTX.jpg"
+    },
+    "budget": 94000000,
+    "genres": [
+        {
+            "id": 12,
+            "name": "مغامرة"
+        },
+        {
+            "id": 14,
+            "name": "فانتازيا"
+        },
+        {
+            "id": 28,
+            "name": "حركة"
+        }
+    ],
+    "homepage": "",
+    "id": 122,
+    "imdb_id": "tt0167260",
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_title": "The Lord of the Rings: The Return of the King",
+    "overview": "تم الكشف عن أراغورن باعتباره وريث الملوك القدامى حيث يكافح هو وقاندالف والأعضاء الآخرون في الشركة المكسورة لإنقاذ جوندور من قوات سورون. في هذه الأثناء ، يقترب فرودو وسام من الخاتم إلى قلب موردور ، عالم اللورد المظلم.",
+    "popularity": 33.5556,
+    "poster_path": "/rCzpDGLbOoPwLjy3OAm5NUPOTrC.jpg",
+    "production_companies": [
+        {
+            "id": 12,
+            "logo_path": "/2ycs64eqV5rqKYHyQK0GVoKGvfX.png",
+            "name": "New Line Cinema",
+            "origin_country": "US"
+        },
+        {
+            "id": 11,
+            "logo_path": "/6FAuASQHybRkZUk08p9PzSs9ezM.png",
+            "name": "WingNut Films",
+            "origin_country": "NZ"
+        },
+        {
+            "id": 5237,
+            "logo_path": "/mlnr7vsBHvLye8oEb5A76C0t8x9.png",
+            "name": "The Saul Zaentz Company",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "NZ",
+            "name": "New Zealand"
+        },
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2003-12-17",
+    "revenue": 1118888979,
+    "runtime": 201,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "عين العدو تتحرك.",
+    "title": "سيد الخواتم: عودة الملك",
+    "video": false,
+    "vote_average": 8.495,
+    "vote_count": 26258
+},
+{
+    "adult": false,
+    "backdrop_path": "/inEy3A5OPgeYW4rjRiGycfEeQzA.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 18,
+            "name": "دراما"
+        }
+    ],
+    "homepage": "",
+    "id": 637920,
+    "imdb_id": "tt10431500",
+    "origin_country": [
+        "TR"
+    ],
+    "original_language": "tr",
+    "original_title": "7. Koğuştaki Mucize",
+    "overview": "بعد انفصاله عن ابنته ، يجب على الأب الذي يعاني من إعاقة ذهنية إثبات براءته عندما يُسجن لوفاة طفل قائد عسكري.",
+    "popularity": 7.1877,
+    "poster_path": "/fQGfsyJfl9so1twry0dVp4HN4Cr.jpg",
+    "production_companies": [
+        {
+            "id": 137006,
+            "logo_path": "/3kWHIeqSfjoIVErLYTzJMlHimwn.png",
+            "name": "Lanistar Media",
+            "origin_country": "TR"
+        },
+        {
+            "id": 98733,
+            "logo_path": "/7V4dUwsU0Op8q7tpGXuzxRYB6O9.png",
+            "name": "Motion Content Group",
+            "origin_country": ""
+        },
+        {
+            "id": 126639,
+            "logo_path": null,
+            "name": "CJ ENM Turkey",
+            "origin_country": "TR"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "TR",
+            "name": "Turkey"
+        }
+    ],
+    "release_date": "2019-10-10",
+    "revenue": 28000000,
+    "runtime": 132,
+    "spoken_languages": [
+        {
+            "english_name": "Turkish",
+            "iso_639_1": "tr",
+            "name": "Türkçe"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "معجزة في الزنزانة 7",
+    "video": false,
+    "vote_average": 8.3,
+    "vote_count": 4537
+},
+{
+    "adult": false,
+    "backdrop_path": "/jhk6D8pim3yaByu1801kMoxXFaX.jpg",
+    "belongs_to_collection": {
+        "id": 1069584,
+        "name": "مجموعة : المجالد",
+        "poster_path": "/x4iQRFuyvyAIzm9zYIyNYcFJG6D.jpg",
+        "backdrop_path": "/1VdLvSIeHuwqCT13H9EafxCacGB.jpg"
+    },
+    "budget": 103000000,
+    "genres": [
+        {
+            "id": 28,
+            "name": "حركة"
+        },
+        {
+            "id": 18,
+            "name": "دراما"
+        },
+        {
+            "id": 12,
+            "name": "مغامرة"
+        }
+    ],
+    "homepage": "",
+    "id": 98,
+    "imdb_id": "tt0172495",
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_title": "Gladiator",
+    "overview": "في روما القديمة، تتحول حياة الجنرال العظيم ماكسيموس إلى مأساة عندما يقتل الإمبراطور الجديد كومودوس عائلته ويرسله للعبودية. يجد ماكسيموس نفسه مجبراً على القتال كمصارع في حلبات الموت، متخذاً طريقاً دموياً نحو روما حيث يسعى للانتقام من الطاغية الذي دمر حياته.",
+    "popularity": 21.246,
+    "poster_path": "/3ThtMXP24MxSkUOTqFElQdWzAXe.jpg",
+    "production_companies": [
+        {
+            "id": 33,
+            "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+            "name": "Universal Pictures",
+            "origin_country": "US"
+        },
+        {
+            "id": 1645,
+            "logo_path": "/6Ry6uNBaa0IbbSs1XYIgX5DkA9r.png",
+            "name": "Scott Free Productions",
+            "origin_country": "GB"
+        },
+        {
+            "id": 14440,
+            "logo_path": "/gk9zllyMFnaVBWTdZpm7VcfQrHC.png",
+            "name": "Red Wagon Entertainment",
+            "origin_country": "US"
+        },
+        {
+            "id": 21904,
+            "logo_path": null,
+            "name": "Mill Film",
+            "origin_country": "GB"
+        },
+        {
+            "id": 7,
+            "logo_path": "/vru2SssLX3FPhnKZGtYw00pVIS9.png",
+            "name": "DreamWorks Pictures",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "GB",
+            "name": "United Kingdom"
+        },
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2000-05-04",
+    "revenue": 465516248,
+    "runtime": 155,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "ما نفعله في الحياة يتردد صداه في الأبدية",
+    "title": "المجالد",
+    "video": false,
+    "vote_average": 8.223,
+    "vote_count": 20672
+},
+{
+    "adult": false,
+    "backdrop_path": "/e5MvOQIIouSgQcBHCMNA6Rsbwnd.jpg",
+    "belongs_to_collection": null,
+    "budget": 2200000,
+    "genres": [
+        {
+            "id": 18,
+            "name": "دراما"
+        }
+    ],
+    "homepage": "",
+    "id": 81481,
+    "imdb_id": "tt2070649",
+    "origin_country": [
+        "KR"
+    ],
+    "original_language": "ko",
+    "original_title": "도가니",
+    "overview": "الفيلم مستوحى من أحداث حقيقية، ويدور حول قصة مدرسة لضعاف السمع حيث يتعرض الطلاب الصم للاعتداء الجنسي من قبل أعضاء هيئة التدريس على مدى فترة طويلة من الزمن.",
+    "popularity": 4.5254,
+    "poster_path": "/bBNkmna3iDVpNJmIc8QlECTmiUH.jpg",
+    "production_companies": [
+        {
+            "id": 12619,
+            "logo_path": null,
+            "name": "Sangeori Pictures",
+            "origin_country": ""
+        },
+        {
+            "id": 12620,
+            "logo_path": "/9eEyymKRwMS7GiBy1ZqHiMCpE8i.png",
+            "name": "Fantagio",
+            "origin_country": "KR"
+        },
+        {
+            "id": 7036,
+            "logo_path": "/javbyY0ZCvlFJtly3tpZqf2NwLX.png",
+            "name": "CJ Entertainment",
+            "origin_country": "KR"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "KR",
+            "name": "South Korea"
+        }
+    ],
+    "release_date": "2011-09-22",
+    "revenue": 31500000,
+    "runtime": 125,
+    "spoken_languages": [
+        {
+            "english_name": "Korean",
+            "iso_639_1": "ko",
+            "name": "한국어/조선말"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "الاختبار القاسي",
+    "video": false,
+    "vote_average": 8.141,
+    "vote_count": 757
+},
+{
+    "adult": false,
+    "backdrop_path": "/rcEDPOOOUTLFxLLQJggfLffbofe.jpg",
+    "belongs_to_collection": {
+        "id": 1529614,
+        "name": "呪術廻戦 シリーズ",
+        "poster_path": "/9RJ4SC2nXfeUyGbnCXQ1lPAXnbA.jpg",
+        "backdrop_path": "/wa3t5d9antb8arhLbkeODw7CsmU.jpg"
+    },
+    "budget": 0,
+    "genres": [
+        {
+            "id": 16,
+            "name": "رسوم متحركة"
+        },
+        {
+            "id": 28,
+            "name": "حركة"
+        },
+        {
+            "id": 14,
+            "name": "فانتازيا"
+        }
+    ],
+    "homepage": "",
+    "id": 810693,
+    "imdb_id": "tt14331144",
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_title": "劇場版 呪術廻戦 0",
+    "overview": "يوتا أوكوتسو هو طالب في المدرسة الثانوية يكتسب قوة السيطرة على روح ملعونة قوية للغاية ويتم تسجيله في مدرسة جوجوتسو الثانوية بمحافظة طوكيو لمساعدته على السيطرة على قوته ومراقبته.",
+    "popularity": 14.1946,
+    "poster_path": "/2ndvx03fmREMxEgaZ1vWt756TOQ.jpg",
+    "production_companies": [
+        {
+            "id": 21444,
+            "logo_path": "/wSejGn3lAZdQ5muByxvzigwyDY6.png",
+            "name": "MAPPA",
+            "origin_country": "JP"
+        },
+        {
+            "id": 2918,
+            "logo_path": "/gyEWUBWwqrm3H5T2hkERD9LxpOq.png",
+            "name": "Shueisha",
+            "origin_country": "JP"
+        },
+        {
+            "id": 158200,
+            "logo_path": "/rf4ZArxPuqx5hdeU7rPIU8IQlYx.png",
+            "name": "Sumzap",
+            "origin_country": "JP"
+        },
+        {
+            "id": 3363,
+            "logo_path": "/sj3vD7n63bTCih7bcf6GnWvRf1Q.png",
+            "name": "MBS",
+            "origin_country": "JP"
+        },
+        {
+            "id": 882,
+            "logo_path": "/fRSWWjquvzcHjACbtF53utZFIll.png",
+            "name": "TOHO",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "release_date": "2021-12-24",
+    "revenue": 195870885,
+    "runtime": 105,
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "جوجوتسو كايسن : ذا موفي",
+    "video": false,
+    "vote_average": 8.1,
+    "vote_count": 1688
+},
+{
+    "adult": false,
+    "backdrop_path": "/hO7KbdvGOtDdeg0W4Y5nKEHeDDh.jpg",
+    "belongs_to_collection": {
+        "id": 987044,
+        "name": "مجموعة : جوكر",
+        "poster_path": "/cI4Ng3oX0CEJiY3wMxcfszQZbcI.jpg",
+        "backdrop_path": "/k1YC7mFLvxX4bbD7P8lkcML0Jek.jpg"
+    },
+    "budget": 55000000,
+    "genres": [
+        {
+            "id": 80,
+            "name": "جريمة"
+        },
+        {
+            "id": 53,
+            "name": "إثارة"
+        },
+        {
+            "id": 18,
+            "name": "دراما"
+        }
+    ],
+    "homepage": "",
+    "id": 475557,
+    "imdb_id": "tt7286456",
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_title": "Joker",
+    "overview": "خلال الثمانينيات من القرن الماضي، ممثل كوميدي فاشل - مدفوعًا بالجنون - يتحول إلى حياة الجريمة والفوضى في مدينة قوثام بينما يصبح شخصية مجرمة بنفسية سيئة.",
+    "popularity": 31.7253,
+    "poster_path": "/ik5F4wBJW6HCJCqpSKwly9782cI.jpg",
+    "production_companies": [
+        {
+            "id": 174,
+            "logo_path": "/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png",
+            "name": "Warner Bros. Pictures",
+            "origin_country": "US"
+        },
+        {
+            "id": 83036,
+            "logo_path": null,
+            "name": "Joint Effort",
+            "origin_country": "US"
+        },
+        {
+            "id": 79,
+            "logo_path": "/at4uYdwAAgNRKhZuuFX8ShKSybw.png",
+            "name": "Village Roadshow Pictures",
+            "origin_country": "US"
+        },
+        {
+            "id": 13240,
+            "logo_path": "/aTc07YaNHo8WNgkQSnvLmG6w4nW.png",
+            "name": "Bron Studios",
+            "origin_country": "CA"
+        },
+        {
+            "id": 128064,
+            "logo_path": "/13F3Jf7EFAcREU0xzZqJnVnyGXu.png",
+            "name": "DC Films",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "CA",
+            "name": "Canada"
+        },
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2019-10-01",
+    "revenue": 1078958629,
+    "runtime": 122,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "وضع على وجه سعيد.",
+    "title": "جوكر",
+    "video": false,
+    "vote_average": 8.126,
+    "vote_count": 27478
+},
+{
+    "adult": false,
+    "backdrop_path": "/6GF9uJs7AnbcJvyfoZyjZv063Oo.jpg",
+    "belongs_to_collection": {
+        "id": 94032,
+        "name": "مجموعة الأسد الملك",
+        "poster_path": "/ceDCWDvrtOT4rGG83r1ofZRAQ5J.jpg",
+        "backdrop_path": "/A9IEaj9cPAwEgFnTmteB70oxgJY.jpg"
+    },
+    "budget": 45000000,
+    "genres": [
+        {
+            "id": 10751,
+            "name": "عائلي"
+        },
+        {
+            "id": 16,
+            "name": "رسوم متحركة"
+        },
+        {
+            "id": 18,
+            "name": "دراما"
+        },
+        {
+            "id": 12,
+            "name": "مغامرة"
+        }
+    ],
+    "homepage": "",
+    "id": 8587,
+    "imdb_id": "tt0110357",
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_title": "The Lion King",
+    "overview": "أسد أمير صغير يطرد من أرضه من قبل عمه القاسي، الذي يدعي أنه كان السبب في موت والده. بينما يحكم العم المملكة بمخلب من حديد، يكبر الأمير خارج السافانا، ويعيش وفقًا لفلسفة \"هاكونا ماتاتا\"، أي أن تنسى الماضي ولا تقلق. لكن عندما يطارده ماضيه، يجب على الأمير الشاب أن يقرر مصيره: هل سيبقى منبوذاً أم يواجه مخاوفه ويصبح ما يحتاج إليه؟",
+    "popularity": 21.1674,
+    "poster_path": "/l0DfggxJn89s0hOv8vVK6fa1QCX.jpg",
+    "production_companies": [
+        {
+            "id": 2,
+            "logo_path": "/wdrCwmRnLFJhEoH8GSfymY85KHT.png",
+            "name": "Walt Disney Pictures",
+            "origin_country": "US"
+        },
+        {
+            "id": 171656,
+            "logo_path": "/4UBohOtIr9DtxylH48Qsg6aDow6.png",
+            "name": "Walt Disney Feature Animation",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "1994-06-15",
+    "revenue": 763455561,
+    "runtime": 89,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "أعظم مغامرة في الحياة هي إيجاد مكانك في دائرة الحياة.",
+    "title": "الأسد الملك",
+    "video": false,
+    "vote_average": 8.252,
+    "vote_count": 19519
+},
+{
+    "adult": false,
+    "backdrop_path": "/9uddYYTNcLWpzUkl5iw1RUYhLhY.jpg",
+    "belongs_to_collection": null,
+    "budget": 1900000,
+    "genres": [
+        {
+            "id": 80,
+            "name": "جريمة"
+        },
+        {
+            "id": 18,
+            "name": "دراما"
+        }
+    ],
+    "homepage": "",
+    "id": 103,
+    "imdb_id": "tt0075314",
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_title": "Taxi Driver",
+    "overview": "سائق التاكسي (بالإنجليزية: Taxi Driver)‏ هو فيلم دراما وقصة صدر في 1976 من إخراج مارتن سكورسيزي ومن بطولة روبيرت دي نيرو وجودي فوستر. تدور قصة الفيلم حول ترافيس بيكل (روبيرت دي نيرو) سائق التاكسي وجندي سابق في البحرية خلال حرب فيتنام، يريد تنقية مدينته من الفساد الذي انتشر فيها وبثورة غاضبة منه لا يتبقى أحد من هؤلاء الذي يشعر بأنهم هم السبب في هذا الفساد.",
+    "popularity": 12.9396,
+    "poster_path": "/xPYuI9Yg3XH4eviR0o41dJSb7l6.jpg",
+    "production_companies": [
+        {
+            "id": 46059,
+            "logo_path": null,
+            "name": "Italo/Judeo Productions",
+            "origin_country": ""
+        },
+        {
+            "id": 46060,
+            "logo_path": null,
+            "name": "Bill/Phillips",
+            "origin_country": ""
+        },
+        {
+            "id": 5,
+            "logo_path": "/71BqEFAF4V3qjjMPCpLuyJFB9A.png",
+            "name": "Columbia Pictures",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "1976-02-09",
+    "revenue": 28579636,
+    "runtime": 114,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        },
+        {
+            "english_name": "Spanish",
+            "iso_639_1": "es",
+            "name": "Español"
+        }
+    ],
+    "status": "Released",
+    "tagline": "في كل شارع في كل مدينة ، لا أحد يحلم بأن يكون شخصًا ما.",
+    "title": "سائق التاكسي",
+    "video": false,
+    "vote_average": 8.1,
+    "vote_count": 13291
+},
+{
+    "adult": false,
+    "backdrop_path": "/aCHn2TXYJfzPXQKA6r9mKPbMlUB.jpg",
+    "belongs_to_collection": null,
+    "budget": 60000000,
+    "genres": [
+        {
+            "id": 35,
+            "name": "كوميديا"
+        },
+        {
+            "id": 18,
+            "name": "دراما"
+        }
+    ],
+    "homepage": "",
+    "id": 37165,
+    "imdb_id": "tt0120382",
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_title": "The Truman Show",
+    "overview": "ترومان بوربانك هو نجم برنامج ترومان شو ، وهو برنامج تلفزيوني واقعي مدته 24 ساعة في اليوم يبث كل جانب من جوانب حياته دون علمه. كانت حياته بأكملها عبارة عن مسلسل تلفزيوني لا ينتهي للاستهلاك من قبل بقية العالم. وكل شخص يعرفه ، بما في ذلك زوجته وصديقه المقرب ، هو بالفعل ممثل ، وقد دفع له ليكون جزءًا من حياته.",
+    "popularity": 13.5584,
+    "poster_path": "/nRzoM8Lvjyz3jAWAWHqbiJFUptu.jpg",
+    "production_companies": [
+        {
+            "id": 4,
+            "logo_path": "/jay6WcMgagAklUt7i9Euwj1pzTF.png",
+            "name": "Paramount Pictures",
+            "origin_country": "US"
+        },
+        {
+            "id": 258,
+            "logo_path": "/tMI4xPwgxfNaNId3h9dOcHGU1NI.png",
+            "name": "Scott Rudin Productions",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "1998-06-04",
+    "revenue": 264118712,
+    "runtime": 103,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        },
+        {
+            "english_name": "Spanish",
+            "iso_639_1": "es",
+            "name": "Español"
+        },
+        {
+            "english_name": "Italian",
+            "iso_639_1": "it",
+            "name": "Italiano"
+        },
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Released",
+    "tagline": "بعض الاشياء تستحق القتال لاجلها.",
+    "title": "عرض ترومان",
+    "video": false,
+    "vote_average": 8.152,
+    "vote_count": 19964
+},
+{
+    "adult": false,
+    "backdrop_path": "/8s4h9friP6Ci3adRGahHARVd76E.jpg",
+    "belongs_to_collection": {
+        "id": 722961,
+        "name": "Space Jam Collection",
+        "poster_path": "/1eq1pEctWy8umAjfIncFk273QOa.jpg",
+        "backdrop_path": "/kKIej57OVpFwsOUdn0KooJdJuDg.jpg"
+    },
+    "budget": 150000000,
+    "genres": [
+        {
+            "id": 10751,
+            "name": "عائلي"
+        },
+        {
+            "id": 35,
+            "name": "كوميديا"
+        },
+        {
+            "id": 12,
+            "name": "مغامرة"
+        },
+        {
+            "id": 16,
+            "name": "رسوم متحركة"
+        },
+        {
+            "id": 878,
+            "name": "خيال علمي"
+        }
+    ],
+    "homepage": "",
+    "id": 379686,
+    "imdb_id": "tt3554046",
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_title": "Space Jam: A New Legacy",
+    "overview": "عندما حوصر ليبرون وابنه الصغير دوم في مساحة رقمية من قبل منظمة العفو الدولية المارقة ، يجب على ليبرون إعادتهم إلى المنزل بأمان من خلال قيادة باغز ولولا باني والعصابة الكاملة من لوني تونز المشهور بعدم الانضباط للفوز على أبطال منظمة العفو الدولية الرقميين في ملعب تنس. إنها الألحان مقابل غونس في التحدي الأكبر في حياته.",
+    "popularity": 5.0608,
+    "poster_path": "/nYfVxymDSHhOmlhlHdtRlJnRV2U.jpg",
+    "production_companies": [
+        {
+            "id": 25120,
+            "logo_path": "/6RLMWBcGF2COzjjBORPUy705yF7.png",
+            "name": "Warner Animation Group",
+            "origin_country": "US"
+        },
+        {
+            "id": 148495,
+            "logo_path": "/2fQRDickgp9vuDIxJTlDLEs7j0y.png",
+            "name": "Proximity Media",
+            "origin_country": "US"
+        },
+        {
+            "id": 174,
+            "logo_path": "/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png",
+            "name": "Warner Bros. Pictures",
+            "origin_country": "US"
+        },
+        {
+            "id": 232733,
+            "logo_path": "/hR6J6MfuPi0Dy1B9eSdfVWOArOj.png",
+            "name": "The SpringHill Company",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2021-07-08",
+    "revenue": 163692228,
+    "runtime": 115,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "سبيس جام الأسطورة الجديدة",
+    "video": false,
+    "vote_average": 6.647,
+    "vote_count": 4192
+},
+{
+    "adult": false,
+    "backdrop_path": "/6Kn6qW3an3DkPl3MahWemTzrjCt.jpg",
+    "belongs_to_collection": null,
+    "budget": 2800000,
+    "genres": [
+        {
+            "id": 80,
+            "name": "جريمة"
+        },
+        {
+            "id": 18,
+            "name": "دراما"
+        },
+        {
+            "id": 53,
+            "name": "إثارة"
+        }
+    ],
+    "homepage": "",
+    "id": 11423,
+    "imdb_id": "tt0353969",
+    "origin_country": [
+        "KR"
+    ],
+    "original_language": "ko",
+    "original_title": "살인의 추억",
+    "overview": "1986 مقاطعة جيونجي. تم العثور على جثة شابة مغتصبة ومقتولة بوحشية. بعد شهرين ، بدأت سلسلة من عمليات الاغتصاب والقتل في ظل ظروف مماثلة. وفي بلد لم يعرف مثل هذه الجرائم من قبل ، تزداد أصوات الهمسات السوداء حول قاتل متسلسل. تم تشكيل فرقة عمل خاصة في المنطقة ، مع اثنين من المحققين المحليين Park Doo-Man و Jo Young-Goo انضم إليهم محقق من سيول طلب تكليفه بالقضية.",
+    "popularity": 10.2488,
+    "poster_path": "/2JRoOZIhCrA2Z4M7RmLyOxXPczN.jpg",
+    "production_companies": [
+        {
+            "id": 7036,
+            "logo_path": "/javbyY0ZCvlFJtly3tpZqf2NwLX.png",
+            "name": "CJ Entertainment",
+            "origin_country": "KR"
+        },
+        {
+            "id": 11557,
+            "logo_path": null,
+            "name": "Muhan Investment",
+            "origin_country": ""
+        },
+        {
+            "id": 3657,
+            "logo_path": "/2YXnZa6yPjxdHKzBLgmf57D8QpM.png",
+            "name": "Sidus",
+            "origin_country": "KR"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "KR",
+            "name": "South Korea"
+        }
+    ],
+    "release_date": "2003-04-25",
+    "revenue": 26000000,
+    "runtime": 131,
+    "spoken_languages": [
+        {
+            "english_name": "Korean",
+            "iso_639_1": "ko",
+            "name": "한국어/조선말"
+        },
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "سيبقى أسوأهم معك ... إلى الأبد",
+    "title": "살인의 추억",
+    "video": false,
+    "vote_average": 8.1,
+    "vote_count": 4478
+},
+{
+    "adult": false,
+    "backdrop_path": "/1Onam6oWyFAUCcoxtdWkACtEiNr.jpg",
+    "belongs_to_collection": null,
+    "budget": 28000000,
+    "genres": [
+        {
+            "id": 18,
+            "name": "دراما"
+        },
+        {
+            "id": 10749,
+            "name": "رومنسية"
+        }
+    ],
+    "homepage": "",
+    "id": 4348,
+    "imdb_id": "tt0414387",
+    "origin_country": [
+        "GB"
+    ],
+    "original_language": "en",
+    "original_title": "Pride & Prejudice",
+    "overview": "يعيش (بينيت) مع زوجته وبناته الخمس، وأكثر ما يقلقه أن تتحول ثروته بعد وفاته إلى قريب له من خارج البلدة، وما سينقذ الموقف هو زواج البنات من أزواج أثرياء، ويستأجر شابان ثريان المنزل بجوار منزل (بينيت)، فيتعلق (بينجلي) بـ(جين)، بينما تحب (إليزابيث) صديقه (دارسي).",
+    "popularity": 13.523,
+    "poster_path": "/o8UhmEbWPHmTUxP0lMuCoqNkbB3.jpg",
+    "production_companies": [
+        {
+            "id": 694,
+            "logo_path": "/5LEHONGkZBIoWvp1ygHOF8iyi1M.png",
+            "name": "StudioCanal",
+            "origin_country": "FR"
+        },
+        {
+            "id": 10163,
+            "logo_path": "/16KWBMmfPX0aJzDExDrPxSLj0Pg.png",
+            "name": "Working Title Films",
+            "origin_country": "GB"
+        },
+        {
+            "id": 7419,
+            "logo_path": "/xePgQxppZtgSMICGgnKAWlVobt7.png",
+            "name": "Scion Films",
+            "origin_country": "GB"
+        },
+        {
+            "id": 10146,
+            "logo_path": "/xnFIOeq5cKw09kCWqV7foWDe4AA.png",
+            "name": "Focus Features",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "FR",
+            "name": "France"
+        },
+        {
+            "iso_3166_1": "GB",
+            "name": "United Kingdom"
+        },
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2005-09-16",
+    "revenue": 124604345,
+    "runtime": 128,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Pride & Prejudice",
+    "video": false,
+    "vote_average": 8.0,
+    "vote_count": 8671
+},
+{
+    "adult": false,
+    "backdrop_path": "/vbk5CfaAHOjQPSAcYm6AoRRz2Af.jpg",
+    "belongs_to_collection": {
+        "id": 1241,
+        "name": "مجموعة : هاري بوتر",
+        "poster_path": "/qBfNg6gG0UoOLyybyCSsd2uN7ij.jpg",
+        "backdrop_path": "/kmEsQL2vOTA0jnM28fXS45Ky8kX.jpg"
+    },
+    "budget": 130000000,
+    "genres": [
+        {
+            "id": 12,
+            "name": "مغامرة"
+        },
+        {
+            "id": 14,
+            "name": "فانتازيا"
+        }
+    ],
+    "homepage": "",
+    "id": 673,
+    "imdb_id": "tt0304141",
+    "origin_country": [
+        "GB"
+    ],
+    "original_language": "en",
+    "original_title": "Harry Potter and the Prisoner of Azkaban",
+    "overview": "السنة الثالثة في هوجورتس تعني متعة وتحديات جديدة حيث يتعلم هاري الفن الدقيق المتمثل في الاقتراب من هيبوجريف ، وتحويل بوغارتس المتغيرة الشكل إلى مرح وحتى العودة بالزمن إلى الوراء.  لكن المصطلح يجلب أيضًا خطرًا: يحوم Dementors المصاصون للروح فوق المدرسة ، حليف الشخص الملعون He-Who-Cannot-Be- يتربص داخل جدران القلعة ، ويهرب الساحر المخيف سيريوس بلاك من أزكابان.  وسيواجههم هاري جميعًا.",
+    "popularity": 21.199,
+    "poster_path": "/cjkm4EKCT3SF11wUnJ4dwPqcJfk.jpg",
+    "production_companies": [
+        {
+            "id": 174,
+            "logo_path": "/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png",
+            "name": "Warner Bros. Pictures",
+            "origin_country": "US"
+        },
+        {
+            "id": 436,
+            "logo_path": "/A7WCkG3F0NFvjGCwUnclpGdIu9E.png",
+            "name": "1492 Pictures",
+            "origin_country": "US"
+        },
+        {
+            "id": 437,
+            "logo_path": "/nu20mtwbEIhUNnQ5NXVhHsNknZj.png",
+            "name": "Heyday Films",
+            "origin_country": "GB"
+        },
+        {
+            "id": 19092,
+            "logo_path": null,
+            "name": "P of A Productions",
+            "origin_country": "GB"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "GB",
+            "name": "United Kingdom"
+        },
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2004-05-31",
+    "revenue": 789804554,
+    "runtime": 141,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "هاري بوتر و سجين أزكابان",
+    "video": false,
+    "vote_average": 8.008,
+    "vote_count": 22965
+}
+
+
+
+
+
+
+
+
+
+]

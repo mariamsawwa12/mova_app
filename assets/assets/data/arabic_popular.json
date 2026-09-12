@@ -1,0 +1,1700 @@
+[
+{
+    "adult": false,
+    "backdrop_path": "/yRBc6WY3r1Fz5Cjd6DhSvzqunED.jpg",
+    "belongs_to_collection": {
+        "id": 1540907,
+        "name": "Superman (DCU) Collection",
+        "poster_path": "/2L0dVc82ZWUgo6Fe2lnJ5qqUDId.jpg",
+        "backdrop_path": "/6xQWbcYRHoVDRkyspTy64x8l22m.jpg"
+    },
+    "budget": 225000000,
+    "genres": [
+        {
+            "id": 878,
+            "name": "خيال علمي"
+        },
+        {
+            "id": 12,
+            "name": "مغامرة"
+        },
+        {
+            "id": 28,
+            "name": "حركة"
+        }
+    ],
+    "homepage": "",
+    "id": 1061474,
+    "imdb_id": "tt5950044",
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_title": "Superman",
+    "overview": "سوبرمان، مراسل مبتدئ في مدينة ميتروبوليس، ينطلق في رحلة للتوفيق بين إرثه الكريبتوني وتربيته البشرية ككلارك كينت.",
+    "popularity": 34.1614,
+    "poster_path": "/hd5Iv1kFo5SzcgnjMIrMBkXmVKc.jpg",
+    "production_companies": [
+        {
+            "id": 184898,
+            "logo_path": "/iNTsbEgntSUwHmsZ9whiLhm60WB.png",
+            "name": "DC Studios",
+            "origin_country": "US"
+        },
+        {
+            "id": 94218,
+            "logo_path": "/kxuhS8wyKtVprOn5nckdHyNuSg1.png",
+            "name": "Troll Court Entertainment",
+            "origin_country": "US"
+        },
+        {
+            "id": 11565,
+            "logo_path": "/odU3l6csuBmXUrzFm6araUgEUHQ.png",
+            "name": "The Safran Company",
+            "origin_country": "US"
+        },
+        {
+            "id": 216687,
+            "logo_path": "/kKVYqekveOvLK1IgqdJojLjQvtu.png",
+            "name": "Domain Entertainment",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2025-07-09",
+    "revenue": 616823803,
+    "runtime": 130,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        },
+        {
+            "english_name": "Spanish",
+            "iso_639_1": "es",
+            "name": "Español"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "سوبرمان",
+    "video": false,
+    "vote_average": 7.345,
+    "vote_count": 4537
+},
+{
+    "adult": false,
+    "backdrop_path": "/9BBTo63ANSmhC4e6r62OJFuK2GL.jpg",
+    "belongs_to_collection": {
+        "id": 86311,
+        "name": "مجموعة : المنتقمون",
+        "poster_path": "/yFSIUVTCvgYrpalUktulvk3Gi5Y.jpg",
+        "backdrop_path": "/2UNUv4NJdC36E5myDHACBJ99EwL.jpg"
+    },
+    "budget": 220000000,
+    "genres": [
+        {
+            "id": 878,
+            "name": "خيال علمي"
+        },
+        {
+            "id": 28,
+            "name": "حركة"
+        },
+        {
+            "id": 12,
+            "name": "مغامرة"
+        }
+    ],
+    "homepage": "",
+    "id": 24428,
+    "imdb_id": "tt0848228",
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_title": "The Avengers",
+    "overview": "عندما يبرز عدو غير متوقع ويهدد سلامة وأمن العالم، نيك فوري، مدير وكالة حفظ السلام الدولية المعروفة باسم .S.H.I.E.L.D ، يجد نفسه في حاجة إلى فريق يسحب العالم من حافة الكارثة. من مختلف أنحاء العالم، يبدأ جهد التوظيف!",
+    "popularity": 59.1168,
+    "poster_path": "/k0fEZ1Hr9968y82Mqb5VWKpeKbn.jpg",
+    "production_companies": [
+        {
+            "id": 420,
+            "logo_path": "/hUzeosd33nzE5MCNsZxCGEKTXaQ.png",
+            "name": "Marvel Studios",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2012-04-25",
+    "revenue": 1518815515,
+    "runtime": 143,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        },
+        {
+            "english_name": "Hindi",
+            "iso_639_1": "hi",
+            "name": "हिन्दी"
+        },
+        {
+            "english_name": "Russian",
+            "iso_639_1": "ru",
+            "name": "Pусский"
+        }
+    ],
+    "status": "Released",
+    "tagline": "يتطلب بعض التجميع.",
+    "title": "المنتقمون",
+    "video": false,
+    "vote_average": 7.981,
+    "vote_count": 36808
+},
+{
+    "adult": false,
+    "backdrop_path": "/kVSUUWiXoNwq2wVCZ4Mcqkniqvr.jpg",
+    "belongs_to_collection": {
+        "id": 275402,
+        "name": "SpongeBob Collection",
+        "poster_path": "/caA0tTR0ye1DEnCAUIolrWajmfO.jpg",
+        "backdrop_path": "/82aBKm6QfMzNYl7jk9VG4mMPOYu.jpg"
+    },
+    "budget": 64000000,
+    "genres": [
+        {
+            "id": 16,
+            "name": "رسوم متحركة"
+        },
+        {
+            "id": 10751,
+            "name": "عائلي"
+        },
+        {
+            "id": 35,
+            "name": "كوميديا"
+        },
+        {
+            "id": 12,
+            "name": "مغامرة"
+        },
+        {
+            "id": 14,
+            "name": "فانتازيا"
+        }
+    ],
+    "homepage": "",
+    "id": 991494,
+    "imdb_id": "tt23572848",
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_title": "The SpongeBob Movie: Search for SquarePants",
+    "overview": "ينطلق سبونج بوب وأصدقاؤه من بكيني بوتوم في أكبر مغامرة لهم على الإطلاق! فعندما يحاول إثبات أنه رجل ضخم، يستدعي بالصدفة القرصان الشبح المخيف \"الهولندي الطائر\"، وينجرف سبونج بوب وباتريك في مغامرة جهنمية. مع تحديات هائلة تنتظرهم وفريق إنقاذ يطاردهم...",
+    "popularity": 39.9818,
+    "poster_path": "/hwZDBMsZe231ppVXLYs1tRrt8uf.jpg",
+    "production_companies": [
+        {
+            "id": 24955,
+            "logo_path": "/bX3cYCRWdddXTgIcDEfNiVa8U4j.png",
+            "name": "Paramount Animation",
+            "origin_country": "US"
+        },
+        {
+            "id": 2348,
+            "logo_path": "/m31fQvZJuUvAgxoqTiCGYFBfZYe.png",
+            "name": "Nickelodeon Movies",
+            "origin_country": "US"
+        },
+        {
+            "id": 216687,
+            "logo_path": "/kKVYqekveOvLK1IgqdJojLjQvtu.png",
+            "name": "Domain Entertainment",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2025-12-16",
+    "revenue": 163197450,
+    "runtime": 88,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        },
+        {
+            "english_name": "Arabic",
+            "iso_639_1": "ar",
+            "name": "العربية"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "فيلم سبونج بوب: البحث عن سكوير بانتس",
+    "video": false,
+    "vote_average": 6.749,
+    "vote_count": 251
+},
+{
+    "adult": false,
+    "backdrop_path": "/fnDwHw8drCBGoJNUoS5dLHKXRlq.jpg",
+    "belongs_to_collection": null,
+    "budget": 2300000,
+    "genres": [
+        {
+            "id": 27,
+            "name": "رعب"
+        },
+        {
+            "id": 28,
+            "name": "حركة"
+        },
+        {
+            "id": 53,
+            "name": "إثارة"
+        }
+    ],
+    "homepage": "",
+    "id": 55547,
+    "imdb_id": "tt0215135",
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_title": "Route 666",
+    "overview": "",
+    "popularity": 7.2034,
+    "poster_path": "/mrTWXADgmrvPmXsC7PX7V7yAIEh.jpg",
+    "production_companies": [
+        {
+            "id": 35,
+            "logo_path": "/wxrHa3nZ1K4zo65p56991INkGo6.png",
+            "name": "Lions Gate Films",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2001-10-30",
+    "revenue": 0,
+    "runtime": 86,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Route 666",
+    "video": false,
+    "vote_average": 5.0,
+    "vote_count": 80
+},
+{
+    "adult": false,
+    "backdrop_path": "/538U9snNc2fpnOmYXAPUh3zn31H.jpg",
+    "belongs_to_collection": {
+        "id": 87359,
+        "name": "Mission: Impossible Collection",
+        "poster_path": "/y9i0mnhBsTNTt9o8mV1zIn0m9FP.jpg",
+        "backdrop_path": "/mroWh717g0Ah2c0rrPGW6f3EWMM.jpg"
+    },
+    "budget": 400000000,
+    "genres": [
+        {
+            "id": 28,
+            "name": "حركة"
+        },
+        {
+            "id": 53,
+            "name": "إثارة"
+        },
+        {
+            "id": 12,
+            "name": "مغامرة"
+        }
+    ],
+    "homepage": "",
+    "id": 575265,
+    "imdb_id": "tt9603208",
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_title": "Mission: Impossible - The Final Reckoning",
+    "overview": "بعد الهروب من حادث قطار كارثي، يدرك إيثان أن الكيان مختبئ على متن غواصة روسية قديمة، لكن عدوًا من ماضيه يدعى غابرييل يلاحقه أيضًا.",
+    "popularity": 26.7685,
+    "poster_path": "/sAPf9MtWp72tTW1OMcEUNu5vVOB.jpg",
+    "production_companies": [
+        {
+            "id": 4,
+            "logo_path": "/jay6WcMgagAklUt7i9Euwj1pzTF.png",
+            "name": "Paramount Pictures",
+            "origin_country": "US"
+        },
+        {
+            "id": 82819,
+            "logo_path": "/gXfFl9pRPaoaq14jybEn1pHeldr.png",
+            "name": "Skydance Media",
+            "origin_country": "US"
+        },
+        {
+            "id": 21777,
+            "logo_path": null,
+            "name": "TC Productions",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2025-05-17",
+    "revenue": 598767057,
+    "runtime": 170,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        },
+        {
+            "english_name": "French",
+            "iso_639_1": "fr",
+            "name": "Français"
+        },
+        {
+            "english_name": "Inuktitut",
+            "iso_639_1": "iu",
+            "name": ""
+        },
+        {
+            "english_name": "Russian",
+            "iso_639_1": "ru",
+            "name": "Pусский"
+        }
+    ],
+    "status": "Released",
+    "tagline": "حياتنا هي مجموع اختياراتنا.",
+    "title": "المهمة المستحيلة - الحساب النهائي",
+    "video": false,
+    "vote_average": 7.2,
+    "vote_count": 2668
+},
+{
+    "adult": false,
+    "backdrop_path": "/uiW42lmewHmbtgnjVmMyABNdoAL.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 18,
+            "name": "دراما"
+        },
+        {
+            "id": 53,
+            "name": "إثارة"
+        }
+    ],
+    "homepage": "",
+    "id": 89326,
+    "imdb_id": "tt1641385",
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_title": "96 Minutes",
+    "overview": "",
+    "popularity": 1.1438,
+    "poster_path": "/39FwN8IVp8y46KJ6VjA8oFY8e1o.jpg",
+    "production_companies": [
+        {
+            "id": 7424,
+            "logo_path": null,
+            "name": "First Point Entertainment",
+            "origin_country": ""
+        },
+        {
+            "id": 10848,
+            "logo_path": null,
+            "name": "Katonah Pictures",
+            "origin_country": ""
+        },
+        {
+            "id": 6570,
+            "logo_path": null,
+            "name": "Perfect Weekend",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2011-10-14",
+    "revenue": 0,
+    "runtime": 93,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "96 Minutes",
+    "video": false,
+    "vote_average": 5.7,
+    "vote_count": 90
+},
+{
+    "adult": false,
+    "backdrop_path": "/1OV7hau4D3rWGS5bu8sqBYeVpe.jpg",
+    "belongs_to_collection": {
+        "id": 1241,
+        "name": "مجموعة : هاري بوتر",
+        "poster_path": "/qBfNg6gG0UoOLyybyCSsd2uN7ij.jpg",
+        "backdrop_path": "/kmEsQL2vOTA0jnM28fXS45Ky8kX.jpg"
+    },
+    "budget": 150000000,
+    "genres": [
+        {
+            "id": 12,
+            "name": "مغامرة"
+        },
+        {
+            "id": 14,
+            "name": "فانتازيا"
+        }
+    ],
+    "homepage": "",
+    "id": 674,
+    "imdb_id": "tt0330373",
+    "origin_country": [
+        "GB"
+    ],
+    "original_language": "en",
+    "original_title": "Harry Potter and the Goblet of Fire",
+    "overview": "عندما ظهر اسم هاري بوتر من كأس النار ، يصبح منافسًا في معركة شاقة من أجل المجد بين ثلاث مدارس ساحرة - بطولة Triwizard.  لكن بما أن هاري لم يقدم اسمه أبدًا للبطولة ، فمن فعل ذلك؟  الآن يجب أن يواجه هاري تنينًا مميتًا ، وشياطين مائية شرسة ومتاهة مسحورة ليجد نفسه في قبضة قاسية من هو الذي يجب ألا يتم تسميته.",
+    "popularity": 25.4007,
+    "poster_path": "/r8yKWi7TFXQshtrZxRmvBK4l0NS.jpg",
+    "production_companies": [
+        {
+            "id": 174,
+            "logo_path": "/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png",
+            "name": "Warner Bros. Pictures",
+            "origin_country": "US"
+        },
+        {
+            "id": 437,
+            "logo_path": "/nu20mtwbEIhUNnQ5NXVhHsNknZj.png",
+            "name": "Heyday Films",
+            "origin_country": "GB"
+        },
+        {
+            "id": 462,
+            "logo_path": null,
+            "name": "Patalex IV Productions",
+            "origin_country": "GB"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "GB",
+            "name": "United Kingdom"
+        },
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2005-11-16",
+    "revenue": 895921036,
+    "runtime": 157,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        },
+        {
+            "english_name": "French",
+            "iso_639_1": "fr",
+            "name": "Français"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "هاري بوتر و كأس النار",
+    "video": false,
+    "vote_average": 7.801,
+    "vote_count": 21973
+},
+{
+    "adult": false,
+    "backdrop_path": "/qBChUbS8ksbJoPTfZpogsnxG5tY.jpg",
+    "belongs_to_collection": null,
+    "budget": 200000000,
+    "genres": [
+        {
+            "id": 18,
+            "name": "دراما"
+        },
+        {
+            "id": 10749,
+            "name": "رومنسية"
+        }
+    ],
+    "homepage": "",
+    "id": 597,
+    "imdb_id": "tt0120338",
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_title": "Titanic",
+    "overview": "تروي روز ديويت بوكاتر البالغة من العمر 101 عامًا قصة حياتها على متن تيتانيك ، بعد 84 عامًا. روز شابة تصعد على متن السفينة مع والدتها وخطيبها. في هذه الأثناء ، فاز جاك داوسون وفابريزيو دي روسي بتذاكر درجة ثالثة على متن السفينة. تروي روز القصة الكاملة من رحيل تيتانيك حتى وفاتها - في رحلتها الأولى والأخيرة - في 15 أبريل 1912.",
+    "popularity": 30.1272,
+    "poster_path": "/2QqGsNCuWyznjKht4hKTmRW1aEn.jpg",
+    "production_companies": [
+        {
+            "id": 4,
+            "logo_path": "/jay6WcMgagAklUt7i9Euwj1pzTF.png",
+            "name": "Paramount Pictures",
+            "origin_country": "US"
+        },
+        {
+            "id": 25,
+            "logo_path": "/qZCc1lty5FzX30aOCVRBLzaVmcp.png",
+            "name": "20th Century Fox",
+            "origin_country": "US"
+        },
+        {
+            "id": 574,
+            "logo_path": "/8wdmrfGcDx3TJxYiiDksLzAW4pB.png",
+            "name": "Lightstorm Entertainment",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "1997-12-18",
+    "revenue": 2264162353,
+    "runtime": 194,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        },
+        {
+            "english_name": "French",
+            "iso_639_1": "fr",
+            "name": "Français"
+        },
+        {
+            "english_name": "German",
+            "iso_639_1": "de",
+            "name": "Deutsch"
+        },
+        {
+            "english_name": "Swedish",
+            "iso_639_1": "sv",
+            "name": "svenska"
+        },
+        {
+            "english_name": "Italian",
+            "iso_639_1": "it",
+            "name": "Italiano"
+        },
+        {
+            "english_name": "Russian",
+            "iso_639_1": "ru",
+            "name": "Pусский"
+        }
+    ],
+    "status": "Released",
+    "tagline": "لا شيء على وجه الأرض يستطيع ان يفرق بينهما.",
+    "title": "تيتانيك",
+    "video": false,
+    "vote_average": 7.903,
+    "vote_count": 26933
+},
+{
+    "adult": false,
+    "backdrop_path": "/cd8YDn7M0lfaHhZdU6MvCDxPalP.jpg",
+    "belongs_to_collection": {
+        "id": 87096,
+        "name": "مجموعة \"أفاتار\"",
+        "poster_path": "/3C5brXxnBxfkeKWwA1Fh4xvy4wr.jpg",
+        "backdrop_path": "/6qkJLRCZp9Y3ovXti5tSuhH0DpO.jpg"
+    },
+    "budget": 350000000,
+    "genres": [
+        {
+            "id": 28,
+            "name": "حركة"
+        },
+        {
+            "id": 12,
+            "name": "مغامرة"
+        },
+        {
+            "id": 878,
+            "name": "خيال علمي"
+        }
+    ],
+    "homepage": "",
+    "id": 76600,
+    "imdb_id": "tt1630029",
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_title": "Avatar: The Way of Water",
+    "overview": "يحاول كل من جيك سولي ونيتيري أن يقوما بكل ما في وسعهما كي يظل معًا، ولكن يتحتم عليهما مفارقة منزلهما واكتشاف أرجاء شتى على كوكب باندورا لينهيا ما بدآه.",
+    "popularity": 32.4288,
+    "poster_path": "/cBajHfu0jK6P0DRr5iG17oH19Bb.jpg",
+    "production_companies": [
+        {
+            "id": 127928,
+            "logo_path": "/h0rjX5vjW5r8yEnUBStFarjcLT4.png",
+            "name": "20th Century Studios",
+            "origin_country": "US"
+        },
+        {
+            "id": 574,
+            "logo_path": "/8wdmrfGcDx3TJxYiiDksLzAW4pB.png",
+            "name": "Lightstorm Entertainment",
+            "origin_country": "US"
+        },
+        {
+            "id": 22213,
+            "logo_path": "/qx9K6bFWJupwde0xQDwOvXkOaL8.png",
+            "name": "TSG Entertainment",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2022-12-14",
+    "revenue": 2353096253,
+    "runtime": 192,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "العودة إلى باندورا",
+    "title": "أفاتار: طريق المياه",
+    "video": false,
+    "vote_average": 7.6,
+    "vote_count": 13882
+},
+{
+    "adult": false,
+    "backdrop_path": "/zQ8AxTPiCiS5nnwXpwTBPBHSaa5.jpg",
+    "belongs_to_collection": {
+        "id": 556,
+        "name": "مجموعة \"سبايدر مان\"",
+        "poster_path": "/bp5PqLa06QA1LsELA1SsKZ008H7.jpg",
+        "backdrop_path": "/waZqriYTuBE3WqXI3SDGi3kfDQE.jpg"
+    },
+    "budget": 139000000,
+    "genres": [
+        {
+            "id": 28,
+            "name": "حركة"
+        },
+        {
+            "id": 878,
+            "name": "خيال علمي"
+        }
+    ],
+    "homepage": "",
+    "id": 557,
+    "imdb_id": "tt0145487",
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_title": "Spider-Man",
+    "overview": "اقتباساً عن سلسلة الكوميكس الشهيرة الرجل العنكبوت تدور أحداث الفيلم حول (بيتر باركر) الطالب اليتيم الهادئ الفقير الخجول الذي يتعرض في أحد المعارض العلمية لعضة عنكبوت معدل وراثياً مما يعطيه قدرات خارقة، بينما يحب بيتر (ماري) في صمت لأنها ترافق صديقه (هاري أوزبورن)، نجد أن (نورمان) والد هاري المليونير غريب الأطوار يستخدم نوعًا جديدًا من مخدرات تعزيز الأداء ليصبح العفريت الأخضر، فيصبح لزاما على بيتر مواجهته لإنقاذ عائلته وأصدقائه.",
+    "popularity": 29.0223,
+    "poster_path": "/rWBha5OkU7ohnLLsoAbUoEak8sp.jpg",
+    "production_companies": [
+        {
+            "id": 19551,
+            "logo_path": "/2WpWp9b108hizjHKdA107hFmvQ5.png",
+            "name": "Marvel Enterprises",
+            "origin_country": "US"
+        },
+        {
+            "id": 326,
+            "logo_path": null,
+            "name": "Laura Ziskin Productions",
+            "origin_country": "US"
+        },
+        {
+            "id": 5,
+            "logo_path": "/71BqEFAF4V3qjjMPCpLuyJFB9A.png",
+            "name": "Columbia Pictures",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2002-05-01",
+    "revenue": 821708551,
+    "runtime": 121,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "الرجل العنكبوت",
+    "video": false,
+    "vote_average": 7.323,
+    "vote_count": 20454
+},
+{
+    "adult": false,
+    "backdrop_path": "/uRNgkJSkNBFbbn9fPsEjDIy8Sh3.jpg",
+    "belongs_to_collection": {
+        "id": 295,
+        "name": "Pirates of the Caribbean Collection",
+        "poster_path": "/zRBaZxS5YauLvRYjAdL4AUCwlht.jpg",
+        "backdrop_path": "/wxgD3fB5lQ2sGJLog0rvXW049Pf.jpg"
+    },
+    "budget": 140000000,
+    "genres": [
+        {
+            "id": 12,
+            "name": "مغامرة"
+        },
+        {
+            "id": 14,
+            "name": "فانتازيا"
+        },
+        {
+            "id": 28,
+            "name": "حركة"
+        }
+    ],
+    "homepage": "",
+    "id": 22,
+    "imdb_id": "tt0325980",
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_title": "Pirates of the Caribbean: The Curse of the Black Pearl",
+    "overview": "الاستعداد ليتم تفجيرها من الماء.  جاك سبارو ، قرصان حر من القرن 18th ، يتشاجر مع قرصان منافس عازم على نهب بورت رويال. عندما يتم اختطاف ابنة الحاكم ، يقرر سبارو مساعدة حب الفتاة في إنقاذها.",
+    "popularity": 21.2416,
+    "poster_path": "/p25EmvIYLnVaorWVG7Qfb0KMxD7.jpg",
+    "production_companies": [
+        {
+            "id": 2,
+            "logo_path": "/wdrCwmRnLFJhEoH8GSfymY85KHT.png",
+            "name": "Walt Disney Pictures",
+            "origin_country": "US"
+        },
+        {
+            "id": 130,
+            "logo_path": "/c9dVHPOL3cqCr2593Ahk0nEKTEM.png",
+            "name": "Jerry Bruckheimer Films",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2003-07-09",
+    "revenue": 655011224,
+    "runtime": 143,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "استعد للتخلص من الماء.",
+    "title": "قراصنة الكاريبي - لعنة اللؤلؤة السوداء",
+    "video": false,
+    "vote_average": 7.82,
+    "vote_count": 22021
+},
+{
+    "adult": false,
+    "backdrop_path": "/hXd2cgvvVh1EzSxuyNysiLErjVM.jpg",
+    "belongs_to_collection": null,
+    "budget": 19000000,
+    "genres": [
+        {
+            "id": 16,
+            "name": "رسوم متحركة"
+        },
+        {
+            "id": 10751,
+            "name": "عائلي"
+        },
+        {
+            "id": 14,
+            "name": "فانتازيا"
+        }
+    ],
+    "homepage": "",
+    "id": 129,
+    "imdb_id": "tt0245429",
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_title": "千と千尋の神隠し",
+    "overview": "تتجول \"شيهيرو\" في عالم سحري تحكمه ساحرة - تقوم بتحويل كل من يعصيها إلى حيوانات.",
+    "popularity": 34.8421,
+    "poster_path": "/o9bDF4M3CQPn8e6PMAhJW5K6ciQ.jpg",
+    "production_companies": [
+        {
+            "id": 10342,
+            "logo_path": "/uFuxPEZRUcBTEiYIxjHJq62Vr77.png",
+            "name": "Studio Ghibli",
+            "origin_country": "JP"
+        },
+        {
+            "id": 1779,
+            "logo_path": "/41nGzTdCnORYZIZzaGZtfsBwQCl.png",
+            "name": "Tokuma Shoten",
+            "origin_country": "JP"
+        },
+        {
+            "id": 6755,
+            "logo_path": "/bWiM2iY82B32NGmPCOFatgfekIR.png",
+            "name": "Nippon Television Network Corporation",
+            "origin_country": "JP"
+        },
+        {
+            "id": 11847,
+            "logo_path": "/rZP0I1p3hZNUMNFPHUSal6rWThQ.png",
+            "name": "Mitsubishi",
+            "origin_country": "JP"
+        },
+        {
+            "id": 1778,
+            "logo_path": "/b5rT6VbYza3LyfltCmz1OcqzWJM.png",
+            "name": "dentsu",
+            "origin_country": "JP"
+        },
+        {
+            "id": 1780,
+            "logo_path": "/4Qzhr7FxVtaMwmsh7118G3yvOhO.png",
+            "name": "TFC",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "release_date": "2001-07-20",
+    "revenue": 274925095,
+    "runtime": 125,
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Released",
+    "tagline": "إختطاف سان وتشيهيرو بعيداً",
+    "title": "المخطوفة",
+    "video": false,
+    "vote_average": 8.5,
+    "vote_count": 18112
+},
+{
+    "adult": false,
+    "backdrop_path": "/wNAfVj1ObGNye5fQM4tJXJGtU0.jpg",
+    "belongs_to_collection": {
+        "id": 523855,
+        "name": "The Equalizer Collection",
+        "poster_path": "/vIFxwPZvtTGBlPVSzhUr97pSKvI.jpg",
+        "backdrop_path": "/wac5llYhh0lC24yNWljrcOe4sR9.jpg"
+    },
+    "budget": 55000000,
+    "genres": [
+        {
+            "id": 53,
+            "name": "إثارة"
+        },
+        {
+            "id": 28,
+            "name": "حركة"
+        },
+        {
+            "id": 80,
+            "name": "جريمة"
+        }
+    ],
+    "homepage": "",
+    "id": 156022,
+    "imdb_id": "tt0455944",
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_title": "The Equalizer",
+    "overview": "يعتقد مكال أنه وضع ماضيه الغامض وراءه وكرس نفسه ليبدأ حياة جديدة هادئة. لكن عندما يلتقي بـ تيري، وهي فتاة صغيرة تحت سيطرة عصابات روسية شديدة العنف، لا يمكنه الوقوف مكتوف الأيدي - عليه أن يساعدها. مسلح بالمهارات الخفية التي تسمح له بالانتقام من أي شخص يعامل الناس بوحشية، يخرج مكال من تقاعده الذي فرضة على نفسه. لو كان هناك شخص ما لديه مشكلة، او احتمالات متراكمة ضده، او لم يكن لديه أي حل آخر يساعدة، فسوف يساعده مكال، المعادل.",
+    "popularity": 17.2955,
+    "poster_path": "/9JP0K0HXDrdRyfJ8egsCCyMC8qc.jpg",
+    "production_companies": [
+        {
+            "id": 41096,
+            "logo_path": null,
+            "name": "Lonetree Entertainment",
+            "origin_country": "US"
+        },
+        {
+            "id": 5,
+            "logo_path": "/71BqEFAF4V3qjjMPCpLuyJFB9A.png",
+            "name": "Columbia Pictures",
+            "origin_country": "US"
+        },
+        {
+            "id": 79,
+            "logo_path": "/at4uYdwAAgNRKhZuuFX8ShKSybw.png",
+            "name": "Village Roadshow Pictures",
+            "origin_country": "US"
+        },
+        {
+            "id": 1423,
+            "logo_path": "/gzvsPHV9WqcQMrvI8pq5hbuvEZ5.png",
+            "name": "Escape Artists",
+            "origin_country": "US"
+        },
+        {
+            "id": 34034,
+            "logo_path": null,
+            "name": "LStar Capital",
+            "origin_country": "US"
+        },
+        {
+            "id": 2767,
+            "logo_path": null,
+            "name": "Mace Neufeld Productions",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2014-09-24",
+    "revenue": 192330738,
+    "runtime": 132,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "المعادل",
+    "video": false,
+    "vote_average": 7.282,
+    "vote_count": 9821
+},
+{
+    "adult": false,
+    "backdrop_path": "/zo8CIjJ2nfNOevqNajwMRO6Hwka.jpg",
+    "belongs_to_collection": {
+        "id": 1241984,
+        "name": "موانا مجموعة",
+        "poster_path": "/z6thz0IXBYpcJa8PGjTfsOrnP7j.jpg",
+        "backdrop_path": "/4OgaftFNqtE1UvfDDb2Eov7A5Rz.jpg"
+    },
+    "budget": 150000000,
+    "genres": [
+        {
+            "id": 16,
+            "name": "رسوم متحركة"
+        },
+        {
+            "id": 12,
+            "name": "مغامرة"
+        },
+        {
+            "id": 10751,
+            "name": "عائلي"
+        },
+        {
+            "id": 35,
+            "name": "كوميديا"
+        },
+        {
+            "id": 14,
+            "name": "فانتازيا"
+        }
+    ],
+    "homepage": "",
+    "id": 1241982,
+    "imdb_id": "tt13622970",
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_title": "Moana 2",
+    "overview": "بعد تلقيها نداء من أسلافها، تسافر \"موانا\" و\"ماوي\" إلى بحار \"أوقيانوسيا\" البعيدة.",
+    "popularity": 26.4612,
+    "poster_path": "/yhyYzzJOZzdd1pQPDLV6jYulAmC.jpg",
+    "production_companies": [
+        {
+            "id": 6125,
+            "logo_path": "/8bH86UPmMP8hlITzXV3XgV9eaAc.png",
+            "name": "Walt Disney Animation Studios",
+            "origin_country": "US"
+        },
+        {
+            "id": 158526,
+            "logo_path": "/tzsMJBJZINu7GHzrpYzpReWhh66.png",
+            "name": "Walt Disney Animation Studios",
+            "origin_country": "CA"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "CA",
+            "name": "Canada"
+        },
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2024-11-21",
+    "revenue": 1059242164,
+    "runtime": 100,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "‏المحيط يناديهم مرة أخرى.‏",
+    "title": "موانا ٢",
+    "video": false,
+    "vote_average": 6.992,
+    "vote_count": 2998
+},
+{
+    "adult": false,
+    "backdrop_path": "/7I6VUdPj6tQECNHdviJkUHD2u89.jpg",
+    "belongs_to_collection": {
+        "id": 404609,
+        "name": "فصول  : جون ويك",
+        "poster_path": "/sm7rZZivZm2NhJDucFf3gpfFdVt.jpg",
+        "backdrop_path": "/fSwYa5q2xRkBoOOjueLpkLf3N1m.jpg"
+    },
+    "budget": 100000000,
+    "genres": [
+        {
+            "id": 28,
+            "name": "حركة"
+        },
+        {
+            "id": 53,
+            "name": "إثارة"
+        },
+        {
+            "id": 80,
+            "name": "جريمة"
+        }
+    ],
+    "homepage": "",
+    "id": 603692,
+    "imdb_id": "tt10366206",
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_title": "John Wick: Chapter 4",
+    "overview": "بعدما اكتشف طريقة ستمكنه من القضاء على المجلس الأعلى واستعادة حريته، يجد جون ويك نفسه في مواجهة مع عدو جديد تدفعه للشك حتى في أصدقاؤه القدامى.",
+    "popularity": 16.8144,
+    "poster_path": "/64n9lZl7MdiokmJTMavEsHR0xwE.jpg",
+    "production_companies": [
+        {
+            "id": 3528,
+            "logo_path": "/cCzCClIzIh81Fa79hpW5nXoUsHK.png",
+            "name": "Thunder Road",
+            "origin_country": "US"
+        },
+        {
+            "id": 23008,
+            "logo_path": "/5SarYupipdiejsEqUkwu1SpYfru.png",
+            "name": "87Eleven",
+            "origin_country": "US"
+        },
+        {
+            "id": 264,
+            "logo_path": "/fA90qwUKgPhMONqtwY60GaHRyrW.png",
+            "name": "Studio Babelsberg",
+            "origin_country": "DE"
+        },
+        {
+            "id": 1632,
+            "logo_path": "/cisLn1YAUuptXVBa0xjq7ST9cH0.png",
+            "name": "Lionsgate",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "DE",
+            "name": "Germany"
+        },
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2023-03-21",
+    "revenue": 447316405,
+    "runtime": 170,
+    "spoken_languages": [
+        {
+            "english_name": "Arabic",
+            "iso_639_1": "ar",
+            "name": "العربية"
+        },
+        {
+            "english_name": "Cantonese",
+            "iso_639_1": "cn",
+            "name": "广州话 / 廣州話"
+        },
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        },
+        {
+            "english_name": "French",
+            "iso_639_1": "fr",
+            "name": "Français"
+        },
+        {
+            "english_name": "German",
+            "iso_639_1": "de",
+            "name": "Deutsch"
+        },
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        },
+        {
+            "english_name": "Latin",
+            "iso_639_1": "la",
+            "name": "Latin"
+        },
+        {
+            "english_name": "Russian",
+            "iso_639_1": "ru",
+            "name": "Pусский"
+        },
+        {
+            "english_name": "Spanish",
+            "iso_639_1": "es",
+            "name": "Español"
+        }
+    ],
+    "status": "Released",
+    "tagline": "لا مجال للعودة. طريق واحد للحرية.",
+    "title": "جون ويك: الفصل ٤",
+    "video": false,
+    "vote_average": 7.707,
+    "vote_count": 7792
+},
+{
+    "adult": false,
+    "backdrop_path": "/xyXmtuvsoM5J3yNad0nvcetpBdY.jpg",
+    "belongs_to_collection": {
+        "id": 121938,
+        "name": "سلسلة الهوبيت",
+        "poster_path": "/3LpB1hatQoiSusmirFKUyehM6Xd.jpg",
+        "backdrop_path": "/7wO7MSnP5UcwR2cTHdJFF1vP4Ie.jpg"
+    },
+    "budget": 250000000,
+    "genres": [
+        {
+            "id": 12,
+            "name": "مغامرة"
+        },
+        {
+            "id": 14,
+            "name": "فانتازيا"
+        },
+        {
+            "id": 28,
+            "name": "حركة"
+        }
+    ],
+    "homepage": "",
+    "id": 49051,
+    "imdb_id": "tt0903624",
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_title": "The Hobbit: An Unexpected Journey",
+    "overview": "في عالم اﻷرض الوسطى، يروي الفيلم قصة الهوبيت (بيلبو باجنز) الذي يجد نفسه دون حسابات جزء من مغامرة كبرى مع الساحر (جاندالف) وثلاثة عشر قزمًا يقودهم (ثورين أوكنشيلد)، وذلك بهدف استعادة مملكة اﻷقزام المفقودة التي يحرسها التنين (سموج)، والحصول على الكنز الدفين الكامن في قلبها.",
+    "popularity": 15.5754,
+    "poster_path": "/7hx8sA7pPJbSEkS4Ya23wxzvl1j.jpg",
+    "production_companies": [
+        {
+            "id": 12,
+            "logo_path": "/2ycs64eqV5rqKYHyQK0GVoKGvfX.png",
+            "name": "New Line Cinema",
+            "origin_country": "US"
+        },
+        {
+            "id": 21,
+            "logo_path": "/usUnaYV6hQnlVAXP6r4HwrlLFPG.png",
+            "name": "Metro-Goldwyn-Mayer",
+            "origin_country": "US"
+        },
+        {
+            "id": 11,
+            "logo_path": "/6FAuASQHybRkZUk08p9PzSs9ezM.png",
+            "name": "WingNut Films",
+            "origin_country": "NZ"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "NZ",
+            "name": "New Zealand"
+        },
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2012-12-12",
+    "revenue": 1021103568,
+    "runtime": 169,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "من أصغر البدايات تأتي أعظم الأساطير.",
+    "title": "الهوبيت : رحلة غير متوقعة",
+    "video": false,
+    "vote_average": 7.369,
+    "vote_count": 19466
+},
+{
+    "adult": false,
+    "backdrop_path": "/5oaMV2q0qzxkIW2ukU3lldLu5q2.jpg",
+    "belongs_to_collection": {
+        "id": 86105,
+        "name": "مجموعة : المُنفِس الأمريكي",
+        "poster_path": "/ko4O9lcRGYOZAF5Hh79Mfsgjpun.jpg",
+        "backdrop_path": "/z5cYtp6jrS23RrQPBiJMJpIMwjc.jpg"
+    },
+    "budget": 7000000,
+    "genres": [
+        {
+            "id": 53,
+            "name": "إثارة"
+        },
+        {
+            "id": 18,
+            "name": "دراما"
+        },
+        {
+            "id": 80,
+            "name": "جريمة"
+        }
+    ],
+    "homepage": "",
+    "id": 1359,
+    "imdb_id": "tt0144084",
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_title": "American Psycho",
+    "overview": "يخفي مسؤول تنفيذي ثري للخدمات المصرفية الاستثمارية في نيويورك غروره البديل المضطرب نفسيًا عن زملائه في العمل وأصدقائه بينما يتعمق أكثر في تخيلاته غير المنطقية وغير المبررة.",
+    "popularity": 13.4445,
+    "poster_path": "/qE6bHAtqroAdwPTJ1DvyIrK3nuY.jpg",
+    "production_companies": [
+        {
+            "id": 1632,
+            "logo_path": "/cisLn1YAUuptXVBa0xjq7ST9cH0.png",
+            "name": "Lionsgate",
+            "origin_country": "US"
+        },
+        {
+            "id": 6455,
+            "logo_path": "/mc3rMk0tW5ajjbfqkB8xlp85Cdy.png",
+            "name": "Pressman Film",
+            "origin_country": "US"
+        },
+        {
+            "id": 15231,
+            "logo_path": "/iFbzMtXFBv2ekA9Ldrw6LqjLrvX.png",
+            "name": "Muse Productions",
+            "origin_country": "US"
+        },
+        {
+            "id": 217087,
+            "logo_path": null,
+            "name": "Christian Halsey Solomon Productions",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "CA",
+            "name": "Canada"
+        },
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2000-04-13",
+    "revenue": 34269748,
+    "runtime": 102,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        },
+        {
+            "english_name": "Spanish",
+            "iso_639_1": "es",
+            "name": "Español"
+        },
+        {
+            "english_name": "Cantonese",
+            "iso_639_1": "cn",
+            "name": "广州话 / 廣州話"
+        }
+    ],
+    "status": "Released",
+    "tagline": "أعتقد أن قناعي العقل على وشك الانزلاق.",
+    "title": "مختل أمريكي",
+    "video": false,
+    "vote_average": 7.407,
+    "vote_count": 12113
+},
+{
+    "adult": false,
+    "backdrop_path": "/4hvK1uenpT7VVClzoNqXanvgdjX.jpg",
+    "belongs_to_collection": {
+        "id": 1069584,
+        "name": "مجموعة : المجالد",
+        "poster_path": "/x4iQRFuyvyAIzm9zYIyNYcFJG6D.jpg",
+        "backdrop_path": "/1VdLvSIeHuwqCT13H9EafxCacGB.jpg"
+    },
+    "budget": 310000000,
+    "genres": [
+        {
+            "id": 28,
+            "name": "حركة"
+        },
+        {
+            "id": 12,
+            "name": "مغامرة"
+        },
+        {
+            "id": 18,
+            "name": "دراما"
+        }
+    ],
+    "homepage": "",
+    "id": 558449,
+    "imdb_id": "tt9218128",
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_title": "Gladiator II",
+    "overview": "تدور أحداث العمل حول (لوشيوس)، ابن حبيبة (ماكسيموس) والتي تُعرف باسم (لوسيا)، ذلك في أعقاب وفاة (ماكسيموس) وانقلاب موازين القوة.",
+    "popularity": 13.7302,
+    "poster_path": "/wCfFdowd6U7BdMRKPpUhTM0E9vQ.jpg",
+    "production_companies": [
+        {
+            "id": 4,
+            "logo_path": "/jay6WcMgagAklUt7i9Euwj1pzTF.png",
+            "name": "Paramount Pictures",
+            "origin_country": "US"
+        },
+        {
+            "id": 221347,
+            "logo_path": "/6Ry6uNBaa0IbbSs1XYIgX5DkA9r.png",
+            "name": "Scott Free Productions",
+            "origin_country": "US"
+        },
+        {
+            "id": 246486,
+            "logo_path": null,
+            "name": "Lucy Fisher/Douglas Wick Productions",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2024-11-13",
+    "revenue": 462180717,
+    "runtime": 148,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "استعد للترفيه.",
+    "title": "المجالد 2",
+    "video": false,
+    "vote_average": 6.622,
+    "vote_count": 4281
+},
+{
+    "adult": false,
+    "backdrop_path": "/9FrpAtF87VKblKkDEiIZzYgO40K.jpg",
+    "belongs_to_collection": {
+        "id": 90863,
+        "name": "مجموعت Rush Hour",
+        "poster_path": "/pEvK2AoBnhC1RgqB7VRbBCMDq23.jpg",
+        "backdrop_path": "/Atik4QqBg8IrTPiCzaj9AcI9p1i.jpg"
+    },
+    "budget": 33000000,
+    "genres": [
+        {
+            "id": 28,
+            "name": "حركة"
+        },
+        {
+            "id": 35,
+            "name": "كوميديا"
+        },
+        {
+            "id": 80,
+            "name": "جريمة"
+        }
+    ],
+    "homepage": "",
+    "id": 2109,
+    "imdb_id": "tt0120812",
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_title": "Rush Hour",
+    "overview": "عندما يتم استدعاء مفتش هونغ كونغ لي إلى لوس أنجلوس للتحقيق في عملية اختطاف ، لا يريد مكتب التحقيقات الفيدرالي أي مساعدة خارجية ويكلف المحقق جيمس كارتر المغرور في شرطة لوس أنجلوس بإلهاء لي عن القضية.  لا يكتفي \"لي\" و \"كارتر\" بمشاهدة الحدث من الخطوط الجانبية ، حيث يشكلان شراكة غير محتملة ويتحققان في القضية بأنفسهما.",
+    "popularity": 12.2252,
+    "poster_path": "/noZXr14lMFabr2gITrQSfZLVKlM.jpg",
+    "production_companies": [
+        {
+            "id": 12,
+            "logo_path": "/2ycs64eqV5rqKYHyQK0GVoKGvfX.png",
+            "name": "New Line Cinema",
+            "origin_country": "US"
+        },
+        {
+            "id": 139921,
+            "logo_path": null,
+            "name": "Arthur Sarkissian Productions",
+            "origin_country": "US"
+        },
+        {
+            "id": 961,
+            "logo_path": null,
+            "name": "Roger Birnbaum Productions",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "1998-09-18",
+    "revenue": 244721064,
+    "runtime": 97,
+    "spoken_languages": [
+        {
+            "english_name": "Cantonese",
+            "iso_639_1": "cn",
+            "name": "广州话 / 廣州話"
+        },
+        {
+            "english_name": "Mandarin",
+            "iso_639_1": "zh",
+            "name": "普通话"
+        },
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "ساعة الذروة",
+    "video": false,
+    "vote_average": 7.06,
+    "vote_count": 5559
+},
+{
+    "adult": false,
+    "backdrop_path": "/nuDMG0uTaiWFVD6XfHPruum5JOL.jpg",
+    "belongs_to_collection": null,
+    "budget": 45000000,
+    "genres": [
+        {
+            "id": 35,
+            "name": "كوميديا"
+        }
+    ],
+    "homepage": "",
+    "id": 1624,
+    "imdb_id": "tt0119528",
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_title": "Liar Liar",
+    "overview": "محامٍ ناجح اشتهر بدهائه واعتماده الدائم على الكذب، يجد نفسه في مأزق عندما تتحقق أمنية طفله ويُجبر على قول الحقيقة فقط لمدة 24 ساعة. هذا التغيير المفاجئ يقلب حياته رأسًا على عقب ويكشف له جوانب لم يكن مستعدًا لمواجهتها.",
+    "popularity": 6.3257,
+    "poster_path": "/p1habYSdC7oD3WygQ5lynU5G5rV.jpg",
+    "production_companies": [
+        {
+            "id": 33,
+            "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+            "name": "Universal Pictures",
+            "origin_country": "US"
+        },
+        {
+            "id": 23,
+            "logo_path": "/bJOFo2ufq7iFC1F4qZm8aLxF5aS.png",
+            "name": "Imagine Entertainment",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "1997-03-21",
+    "revenue": 302710615,
+    "runtime": 86,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "كاذب كاذب",
+    "video": false,
+    "vote_average": 6.7,
+    "vote_count": 6155
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+]
